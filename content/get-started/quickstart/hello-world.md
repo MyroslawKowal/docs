@@ -92,8 +92,8 @@ You can make and save changes to the files in your repository. On {% data variab
 4. In the **Commit changes** box, write a commit message that describes your changes.
 5. Click **Commit changes**.
 
-   ![Commit example](/assets/images/help/repository/first-commit.png)
-
+   ![Commit example](/assets/imag.png)
+es/help/repository/first-commit
 These changes will be made only to the README file on your `readme-edits` branch, so now this branch contains content that's different from `main`.
 
 ## Opening a pull request
